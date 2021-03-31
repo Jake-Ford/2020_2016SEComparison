@@ -1,0 +1,10 @@
+name: "2020 vs 2016 SE "
+navbar:
+  title: "2020_2016SE"
+  left:
+    - text: "2020_2016SE"
+      href: index.html
+
+
+      
+output_dir: "docs"
